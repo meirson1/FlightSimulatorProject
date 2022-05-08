@@ -1,2 +1,2 @@
 # FlightSimulatorProject
-Project flight gear simulator PTM2
+Project with flight gear simulator PTM2
