@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T15:03:17.513Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="rOY7SbHptUtxyhujRqhD" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-09T15:36:11.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="4nB3J9uzIDor3lw48zaL" version="18.0.2" type="github">
   <diagram id="dR5L8txPh-ZsMB0356Bi" name="Page-1">
     <mxGraphModel dx="1221" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -21,7 +21,7 @@
         <mxCell id="8AezmTqxgummtCErfAQI-5" value="&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;ViewModel&lt;/b&gt;&lt;br&gt;&lt;br&gt;AnomalyDetectorClassLoader()&lt;br&gt;CreatesTimeSeriesObject()&lt;br&gt;LoadProperties()&lt;br&gt;updateDisplayVariables()&lt;br&gt;updateValuesOfDisplayPoints()&lt;br&gt;loadAlgorithm(filename)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="380" y="140" width="190" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="8AezmTqxgummtCErfAQI-6" value="&lt;u style=&quot;font-weight: bold&quot;&gt;Model&lt;/u&gt;&lt;br&gt;Business Logic&lt;br&gt;Project Flight in the past" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingTop=-600;" parent="1" vertex="1">
+        <mxCell id="8AezmTqxgummtCErfAQI-6" value="&lt;u style=&quot;font-weight: bold&quot;&gt;Model&lt;/u&gt;&lt;br&gt;Business Logic&lt;br&gt;View previous flights" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingTop=-600;" parent="1" vertex="1">
           <mxGeometry x="700.63" y="300" width="630" height="710" as="geometry" />
         </mxCell>
         <mxCell id="8AezmTqxgummtCErfAQI-14" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
